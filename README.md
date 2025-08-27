@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi 👋 I'm Moeed  
+
+- 🎓 Starting Computer Science soon  
+- 🐍 Learning Python step by step  
+- 📊 Exploring Data Science & Machine Learning  
+- 🌱 Sharing my coding journey on GitHub  
+
 
 <!--
 **mianmoeed03/mianmoeed03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
