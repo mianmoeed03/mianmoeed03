@@ -1,4 +1,4 @@
-# Hi 👋 I'm Moeed  
+# Hi 👋 I'm AbdulMoeed  
 
 - 🎓 Starting Computer Science soon  
 - 🐍 Learning Python step by step  
